@@ -1,1 +1,1 @@
-# live-hosting
+# School
